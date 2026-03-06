@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+easyocr
+pillow
+numpy
+# google-generativeai is deprecated; install google-genai when available
+google-generativeai
+# google-genai
